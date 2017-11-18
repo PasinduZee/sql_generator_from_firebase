@@ -1,0 +1,96 @@
+{
+  "chats": {
+    "one": {
+      "title": "Historical Tech Pioneers1",
+      "lastMessage": "ghopper: Relay malfunction found. Cause: moth.",
+      "timestamp": 1459361875666
+    },
+    "two": {
+      "title": "Historical Tech Pioneers2",
+      "lastMessage": "ghopper: Relay malfunction found. Cause: moth.",
+      "timestamp": 1459361875666
+    },
+    "three": {
+      "title": "Historical Tech Pioneers3",
+      "lastMessage": "ghopper: Relay malfunction found. Cause: moth.",
+      "timestamp": 1459361875666}
+  },
+  "chats1": {
+    "one": {
+      "title": "Historical Tech Pioneers1",
+      "lastMessage": "ghopper: Relay malfunction found. Cause: moth.",
+      "timestamp": 1459361875666
+    },
+    "two": {
+      "title": "Historical Tech Pioneers2",
+      "lastMessage": "ghopper: Relay malfunction found. Cause: moth.",
+      "timestamp": 1459361875666
+    },
+    "three": {
+      "title": "Historical Tech Pioneers3",
+      "lastMessage": "ghopper: Relay malfunction found. Cause: moth.",
+      "timestamp": 1459361875666}
+  },
+
+  "members": {
+    "one": {
+      "ghopper": true,
+      "alovelace": true,
+      "eclarke": true
+    },
+    "two": {
+      "ghopper": true,
+      "alovelace": false,
+      "eclarke": true
+    },
+    "three": {
+      "ghopper": true,
+      "alovelace": true,
+      "eclarke": false
+    }
+  },
+
+  "messages": {
+    "one": {
+      "m1": {
+        "name": "1eclarke1",
+        "message": "The relay seems to be malfunctioning.1",
+        "timestamp": 1459361875437
+      },
+      "m2": {
+        "name": "1eclarke2",
+        "message": "The relay seems to be malfunctioning.2",
+        "timestamp": 1459361875637
+      },
+      "m3": {
+        "name": "1eclarke3",
+        "message": "The relay seems to be malfunctioning3.",
+        "timestamp": 1459361875737
+      }
+    },
+    "two": {
+      "m1": {
+        "name": "2eclarke1",
+        "message": "The relay seems to be malfunctioning.1",
+        "timestamp": 1459361875437
+      },
+      "m2": {
+        "name": "2eclarke2",
+        "message": "The relay seems to be malfunctioning.2",
+        "timestamp": 1459361875632
+      }
+    },
+    "three":
+    {"m1": {
+        "name": "3eclarke1",
+        "message": "The relay seems to be malfunctioning.1",
+        "timestamp": 1459361875439
+      },
+      "m2": {
+        "name": "3eclarke2",
+        "message": "The relay seems to be malfunctioning.2",
+        "timestamp": 1459361875634
+      }
+    }
+  }
+}
